@@ -1,9 +1,9 @@
 
 public class Pago
 {
-    private MetodoPago metodo;
+    private IMetodoPago metodo;
 
-    public Pago(MetodoPago metodo)
+    public Pago(IMetodoPago metodo)
     {
         this.metodo = metodo;
     }

@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Pago
 comment1.params=metodo
-comment1.target=Pago(MetodoPago)
+comment1.target=Pago(IMetodoPago)
 comment2.params=monto
 comment2.target=void\ procesarPago(double)
 numComments=3

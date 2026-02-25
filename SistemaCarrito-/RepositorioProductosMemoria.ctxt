@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RepositorioProductosMemoria
+comment1.params=
+comment1.target=RepositorioProductosMemoria()
+comment2.params=
+comment2.target=java.util.ArrayList\ listar()
+comment3.params=p
+comment3.target=void\ agregar(Producto)
+numComments=4

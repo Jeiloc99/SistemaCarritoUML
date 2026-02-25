@@ -1,4 +1,4 @@
-public class PagoTarjeta extends MetodoPago
+public class PagoTarjeta implements IMetodoPago
 {
     public void pagar(double monto)
     {

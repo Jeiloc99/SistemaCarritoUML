@@ -1,17 +1,15 @@
 
-import java.util.ArrayList;
-
 public class Tienda
 {
-    private ArrayList<Producto> productos;
+    private IRepositorioProductos repo;
 
-    public Tienda()
+    public Tienda(IRepositorioProductos repo)
     {
-        productos = new ArrayList<Producto>();
+        this.repo = repo;
     }
 
     public void agregarProducto(Producto p)
     {
-        productos.add(p);
+        repo.agregar(p);
     }
 }

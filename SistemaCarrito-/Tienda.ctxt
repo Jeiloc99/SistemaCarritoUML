@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Tienda
-comment1.params=
-comment1.target=Tienda()
+comment1.params=repo
+comment1.target=Tienda(IRepositorioProductos)
 comment2.params=p
 comment2.target=void\ agregarProducto(Producto)
 numComments=3
