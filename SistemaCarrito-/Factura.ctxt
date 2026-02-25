@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Factura
+comment1.params=pedido
+comment1.target=Factura(Pedido)
+comment2.params=
+comment2.target=void\ mostrar()
+numComments=3

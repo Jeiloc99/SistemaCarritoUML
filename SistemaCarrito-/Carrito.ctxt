@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Carrito
+comment1.params=
+comment1.target=Carrito()
+comment2.params=item
+comment2.target=void\ agregarItem(ItemCarrito)
+comment3.params=
+comment3.target=double\ calcularTotal()
+numComments=4
